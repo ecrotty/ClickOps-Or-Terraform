@@ -1,0 +1,7 @@
+# External Dependencies
+azure-cli>=2.0.0  # Required for Azure account and subscription management
+
+# Note: Azure CLI can also be installed via:
+# Windows: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows
+# macOS: brew install azure-cli
+# Linux: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux
