@@ -23,7 +23,7 @@ A Python tool that identifies Azure resources created through the Azure Portal (
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ed-Crotty/ClickOps-Or-Terraform.git
+git clone https://github.com/ecrotty/ClickOps-Or-Terraform.git
 cd ClickOps-Or-Terraform
 ```
 
