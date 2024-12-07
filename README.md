@@ -21,16 +21,18 @@ A Python tool that identifies Azure resources created through the Azure Portal (
 
 ## Installation
 
-1. Clone the repository:
+1. Install Azure CLI:
+   - Windows: [Windows Installation Guide](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows)
+   - macOS: `brew install azure-cli`
+   - Linux: [Linux Installation Guide](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux)
+
+2. Clone the repository:
 ```bash
 git clone https://github.com/ecrotty/ClickOps-Or-Terraform.git
 cd ClickOps-Or-Terraform
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+3. No additional Python packages are required as this tool uses only standard library modules.
 
 ## Usage
 

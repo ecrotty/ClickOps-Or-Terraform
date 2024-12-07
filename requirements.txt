@@ -1,7 +1,8 @@
-# External Dependencies
-azure-cli>=2.0.0  # Required for Azure account and subscription management
+# No external Python package dependencies required - script uses Python standard library
 
-# Note: Azure CLI can also be installed via:
-# Windows: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows
+# Azure CLI is required but must be installed separately:
+# Windows: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows
 # macOS: brew install azure-cli
-# Linux: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux
+# Linux: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux
+
+# Minimum Python version: 3.6+
